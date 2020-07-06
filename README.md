@@ -1,6 +1,6 @@
 # Final Product for Theming Your Website with React Hooks, Redux, Sass, and CSS-Modules
 
-Check the tutorial @ {insert webpage once published}
+Check the tutorial @ https://medium.com/@cea.spain/theming-your-website-with-react-hooks-redux-sass-css-modules-e860ff959af9
 
 ## Quick Start
 
