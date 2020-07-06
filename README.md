@@ -6,7 +6,7 @@ Check the tutorial @ {insert webpage once published}
 
 ### In your Terminal, cd into the directory you'd like to start in and then run:
 
-1. `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
+1. `git clone https://github.com/dreamwasp/website-themes.git`
 2. `npm install`
 
 You can start your server using `gatsby develop` and view your application in browser @ http://localhost:8000/
