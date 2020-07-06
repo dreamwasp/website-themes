@@ -2,6 +2,7 @@ import { darkTheme, lightTheme } from "../styles/themeObjects"
 
 //UTILITY FUNCTION
 const setCurrentTheme = boolean => {
+  console.log(boolean)
   if (boolean) {
     return darkTheme
   } else {
